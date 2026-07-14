@@ -1,7 +1,29 @@
 {
   "name": "visual-motion-engine",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "Physics-driven motion engine for React applications.",
+  "author": "Hugo Armando Tellez Velasco",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/htellezv/visual-motion-engine.git"
+  },
+  "homepage": "https://github.com/htellezv/visual-motion-engine",
+  "bugs": {
+    "url": "https://github.com/htellezv/visual-motion-engine/issues"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "motion",
+    "animation",
+    "physics",
+    "interaction",
+    "vite",
+    "ui",
+    "library"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",
