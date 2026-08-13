@@ -9,7 +9,7 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/htellezv/visual-motion-engine.git"
+    "url": "git+https://github.com/htellezv/visual-motion-engine.git"
   },
   "homepage": "https://github.com/htellezv/visual-motion-engine",
   "bugs": {
