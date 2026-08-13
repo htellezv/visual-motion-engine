@@ -5,6 +5,9 @@
   "description": "Physics-driven motion engine for React applications.",
   "author": "Hugo Armando Tellez Velasco",
   "license": "MIT",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/htellezv/visual-motion-engine.git"
@@ -25,6 +28,15 @@
     "library"
   ],
   "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
