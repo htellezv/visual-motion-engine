@@ -1,6 +1,5 @@
 {
   "name": "visual-motion-engine",
-  "private": true,
   "version": "1.0.0",
   "description": "Physics-driven motion engine for React applications.",
   "author": "Hugo Armando Tellez Velasco",
