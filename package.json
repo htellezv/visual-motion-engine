@@ -1,6 +1,6 @@
 {
   "name": "visual-motion-engine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Physics-driven motion engine for React applications.",
   "author": "Hugo Armando Tellez Velasco",
   "license": "MIT",
